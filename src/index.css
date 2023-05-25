@@ -50,7 +50,7 @@
     box-shadow: rgba(0,0,0,0.24) 0px 3px 8px;
   }
   .card:hover{
-    box-shadow: #1faa59 0px 7px 10px;
+    box-shadow: #4a4949 0px 7px 10px;
     .image{
         width: 370px;
         transition: all 0.8s;
